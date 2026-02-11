@@ -1,0 +1,22 @@
+{
+  "name": "productivity-tracker",
+  "version": "1.0.0",
+  "description": "Трекер продуктивности с Firebase и Chart.js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "productivity",
+    "tracker",
+    "firebase",
+    "chartjs"
+  ],
+  "author": "Admin",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "firebase": "^10.7.0"
+  }
+}
